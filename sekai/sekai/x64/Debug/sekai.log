@@ -1,4 +1,0 @@
-﻿  sekai.cpp
-C:\Users\nguye\source\repos\sekai\sekai\sekai.cpp(31,61): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
-C:\Users\nguye\source\repos\sekai\sekai\sekai.cpp(93,20): warning C4018: '<': signed/unsigned mismatch
-  sekai.vcxproj -> C:\Users\nguye\source\repos\sekai\x64\Debug\sekai.exe
