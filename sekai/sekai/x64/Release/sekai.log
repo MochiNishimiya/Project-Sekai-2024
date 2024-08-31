@@ -1,0 +1,9 @@
+﻿  sekai.cpp
+C:\Users\nguye\source\repos\sekai\sekai\sekai.cpp(31,61): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+C:\Users\nguye\source\repos\sekai\sekai\sekai.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  6 of 7 functions (85.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sekai.vcxproj -> C:\Users\nguye\source\repos\sekai\x64\Release\sekai.exe
